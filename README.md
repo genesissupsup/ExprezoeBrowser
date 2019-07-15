@@ -1,4 +1,4 @@
-TeamBrowser is based on SharpBrowser. It is primarily used as a private browser for a particular team. Released under the permissive MIT license.
+TeamBrowser is based on SharpBrowser. It is primarily used as a private browser for a particular team. Developer Tools are disabled to prevent hacking. Released under the permissive MIT license.
 
 ## Features
 
